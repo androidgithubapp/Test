@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">iDost</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="CONVAL">CONTACT</string>
+    <string name="HELPMSG">PLEASE HELP! I AM AT: </string>
+    <string name="menu1">Add Contact</string>
+    <string name="menu2">View Contacts</string>
+    <string name="menu3">Stop SMS</string>
+    <string name="title_activity_contact">ContactActivity</string>
+
+</resources>
