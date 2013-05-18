@@ -1,5 +1,5 @@
 package com.example.idost.pojo;
-
+// POJO Class to store Police Info Bean---Neeldeep.
 public class AllPoliceStationInfoBean {
 //
 //	public static String id;
