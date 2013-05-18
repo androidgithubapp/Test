@@ -19,4 +19,6 @@ public class AllPoliceStationInfoBean {
 	public String reference;
 	public String Test;
 	
+	/*commented by jaydeep*/
+	
 }
