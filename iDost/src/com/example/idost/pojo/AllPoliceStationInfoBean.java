@@ -1,5 +1,6 @@
 package com.example.idost.pojo;
 // POJO Class to store Police Info Bean---Neeldeep.
+//This POJO is the exclusive property of Chako & Friends Amateur App Company Ltd
 public class AllPoliceStationInfoBean {
 //
 //	public static String id;
@@ -20,5 +21,7 @@ public class AllPoliceStationInfoBean {
 	public String Test;
 	
 	/*commented by jaydeep*/
+	
+	
 	
 }
