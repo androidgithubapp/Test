@@ -17,5 +17,6 @@ public class AllPoliceStationInfoBean {
 	public Double latitude;
 	public Double longitude;
 	public String reference;
+	public String Test;
 	
 }
